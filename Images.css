@@ -1,0 +1,101 @@
+.Title{
+    color: rgb(43, 43, 223);
+    font-size: 60px;
+text-align: center;
+}
+
+body{
+    margin: 0px;
+    background-color: lightcoral;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+.navigate {
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one {
+    color: red;
+    font-size: 100%;
+    text-align: center;
+    }
+    
+    .two {
+        color: red;
+        font-size: 100%;
+        text-align: center;
+        }
+    
+     .three {
+         color: red;
+            font-size: 100%;
+            text-align: center;
+            }
+    
+           
+            .four {
+                color: red;
+                   font-size: 100%;
+                   text-align: center;
+                   }
+    
+                   .five {
+                    color: red;
+                       font-size: 100%;
+                       text-align: center;
+                       }
+    
+                       .six {
+                        color: red;
+                           font-size: 100%;
+                           text-align: center;
+                           }                
+    
+                           .seven {
+                            color: red;
+                               font-size: 100%;
+                               text-align: center;
+                               }          
+    
+                               .eight {
+                                color: red;
+                                   font-size: 100%;
+                                   text-align: center;
+                                   }          
+    
+                                   .nine
+                                   {
+                                    color: red;
+                                       font-size: 100%;
+                                       text-align: center;
+                                       }          
+    
+                                       .ten
+                                       {
+                                        color: red;
+                                           font-size: 100%;
+                                           text-align: center;
+                                           }          
+    
+                                           .Eleven
+                                           {
+                                            color: red;
+                                               font-size: 100%;
+                                               text-align: center;
+                                               }  
+                                               
+                                               .Images{
+                                                background-color: pink;
+                                                }
+    
+                                              
